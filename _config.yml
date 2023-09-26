@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr Rahim's Homepage"
 title_separator          : "-"
-name                     : &name "Boris Meinardus"
+name                     : &name "Noor"
 description              : &description "personal description"
 url                      : https://narahim04.github.io/new # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

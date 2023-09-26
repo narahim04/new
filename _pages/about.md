@@ -22,7 +22,7 @@ redirect_from:
 🥇  I was the recipient of the Michael Miller Medal from the Institute for Telecommunications Research (ITR), University of South Australia, for the most outstanding Ph.D. thesis, in 2015.
 
 
-🔬  My research interests include information theory, wireless communications, and vehicular communications. 
+🔬  My research interests include Intelligent Transportation Systems,  Machine Learning,  Internet of Things, Wireless Networks, and  DNA-based Data Storage.
 
 
 
